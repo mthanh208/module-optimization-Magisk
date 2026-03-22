@@ -30,7 +30,7 @@ ______________________________
 1. Open **Magisk**
 2. Go to **Modules**
 3. Select **Install from storage**
-4. Flash `module.zip`
+4. Flash `sys_helper.zip`
 5. Reboot the device
 
 ______________________________
@@ -49,13 +49,3 @@ ______________________________
 _____________________________
 
 
-
- 🔄 Updates
-- Check for new versions in **Releases**
-- Update by flashing the new module over the old one
-
-______________________________
-
- 🧩 Uninstallation
-- Go to Magisk → Modules → Remove
-- Or delete the folder:
